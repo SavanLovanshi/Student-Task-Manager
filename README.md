@@ -26,12 +26,12 @@ Now open your browser and go to:
 http://localhost:3000
 
 
-The Logic (How you thought)
-Why did you choose this approach?
+The Logic (How I thought)
+Why did I choose this approach?
 
 I chose a Single Page Application (SPA) approach to provide a smooth and fast user experience without reloading the page. Using HTML, CSS, JavaScript, Node.js, and Express, I separated frontend and backend logic, making the application modular and easy to maintain. Tasks are handled using REST-style routes, which makes the system scalable for future features like authentication and databases.
 
-What was the hardest bug you faced, and how did you fix it?
+What was the hardest bug I faced, and how did I fix it?
 
 The hardest issue I faced was the “Cannot GET /” error when running the server. This happened because the root route (/) was not properly defined in Express. I fixed it by correctly setting up the route to serve the main HTML file using res.sendFile() and ensuring the static middleware was configured properly. This helped the browser correctly load the SPA entry point.
 
