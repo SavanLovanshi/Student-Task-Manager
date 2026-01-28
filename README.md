@@ -1,5 +1,6 @@
 # Student-Task-Manager
-# Student-Task-Manager
+<img width="1366" height="721" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/650dd94c-9e9a-4e26-a2ec-655b2e10df4b" />
+
 1. Project Title & Goal
 
 Student Task Manager – A single-page web application that allows students to add, view, update, and delete tasks efficiently with a clean and interactive user interface.
@@ -36,7 +37,9 @@ The hardest issue I faced was the “Cannot GET /” error when running the serv
 
 4. Output Screenshots
 Home Page – Task Dashboard
+
 Add Task Functionality
+
 Task List Display
 
 (Screenshots show successful rendering, task creation, and task display as required.)
@@ -44,8 +47,12 @@ Task List Display
 5. Future Improvements
 
 User authentication (login/signup for students)
+
 Database integration using MongoDB for persistent task storage
+
 Task priority levels and due-date reminders
+
 Improved UI animations and dark mode
+
 Mobile responsiveness for better usability on phones.
 
